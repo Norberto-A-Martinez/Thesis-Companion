@@ -10,9 +10,9 @@ Repositório complementar da minha tese. Reúne os **scripts** e os **dados de e
 
 | Pasta | O que contém | Tipo |
 |---|---|---|
-|[dados/](dados) | Contém dados de sistemas de distribuição teste que podem ser utilizados. | Dados |
-| [scocio data gerador/](scocio%20data%20gerador/) | Gerador de cenários socioeconômicos sintéticos para redes de distribuição (`gerar_cenario.py`). Dada a topologia, a demanda por barra e a classificação das barras, produz renda, moradores por domicílio, número de domicílios e consumo por domicílio. | Função / código |
-| [scripts/](scripts) | Pasta com scripts que foram utilizados ao decorrer do desenvolvimento da tese qeu podem ser úteis para conferência de dados. | - |
+|[dados/](dados/README.md) | Contém dados de sistemas de distribuição teste que podem ser utilizados. | Dados |
+| [scocio data gerador/](scocio%20data%20gerador/README.md) | Gerador de cenários socioeconômicos sintéticos para redes de distribuição (`gerar_cenario.py`). Dada a topologia, a demanda por barra e a classificação das barras, produz renda, moradores por domicílio, número de domicílios e consumo por domicílio. | Função / código |
+| [scripts/](scripts/README.md) | Pasta com scripts que foram utilizados ao decorrer do desenvolvimento da tese qeu podem ser úteis para conferência de dados. | - |
 
 ---
 
