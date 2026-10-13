@@ -1,5 +1,3 @@
-# Dados de entrada
-
 Dados utilizados na tese, assim como breve instruções para utilização.
 
 ### Arquivos em formato AMPL
